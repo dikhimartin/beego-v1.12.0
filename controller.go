@@ -28,9 +28,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/astaxie/beego/context"
-	"github.com/astaxie/beego/context/param"
-	"github.com/astaxie/beego/session"
+	"github.com/dikhimartin/beego-v1.12.0/context"
+	"github.com/dikhimartin/beego-v1.12.0/context/param"
+	"github.com/dikhimartin/beego-v1.12.0/session"
 )
 
 var (

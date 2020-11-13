@@ -29,7 +29,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/astaxie/beego/session"
+	"github.com/dikhimartin/beego-v1.12.0/session"
 )
 
 // Regexes for checking the accept headers

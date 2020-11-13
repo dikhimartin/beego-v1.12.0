@@ -15,7 +15,7 @@
 package pagination
 
 import (
-	"github.com/astaxie/beego/context"
+	"github.com/dikhimartin/beego-v1.12.0/context"
 )
 
 // SetPaginator Instantiates a Paginator and assigns it to context.Input.Data("paginator").

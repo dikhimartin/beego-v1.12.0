@@ -16,7 +16,7 @@
 //
 // Usage:
 // import(
-//   "github.com/astaxie/beego/session"
+//   "github.com/dikhimartin/beego-v1.12.0/session"
 // )
 //
 //	func init() {

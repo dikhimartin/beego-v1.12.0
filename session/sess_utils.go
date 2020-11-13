@@ -29,7 +29,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/astaxie/beego/utils"
+	"github.com/dikhimartin/beego-v1.12.0/utils"
 )
 
 func init() {

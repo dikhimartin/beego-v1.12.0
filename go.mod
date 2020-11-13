@@ -1,4 +1,4 @@
-module github.com/astaxie/beego
+module github.com/dikhimartin/beego-v1.12.0
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible // indirect
